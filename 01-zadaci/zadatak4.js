@@ -10,3 +10,4 @@ var satiminute = function (x) {
 satiminute(120)
 satiminute(140)
 satiminute(450)
+satiminute(25)
